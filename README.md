@@ -29,6 +29,10 @@ For Uninstall Download, make executable and run with these lines :
 	wget --no-check-certificate https://raw.github.com/liomedal/3proxy/master/3proxyuninst.sh
 	chmod +x 3proxyuninst.sh
 	./3proxyuninst.sh
+	
+Reset Squid
+	
+	service squid3 restart
   
 **Script will run on :**
 - Debian 6 32bits
