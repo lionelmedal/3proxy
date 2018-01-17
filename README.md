@@ -3,7 +3,7 @@
 ======================================================
 Download, make executable and run with these lines :
     
-    wget --no-check-certificate https://raw.github.com/liomedal/3proxy/master/3proxyinstaller.sh #Download Files
+    wget --no-check-certificate https://raw.github.com/lionelmedal/3proxy/master/3proxyinstaller.sh #Download Files
     chmod +x 3proxyinstaller.sh #Grant Access
     ./3proxyinstaller.sh #Run script once on folder
 
@@ -26,7 +26,7 @@ Once you've change the username / password you can start the proxy
     
 For Uninstall Download, make executable and run with these lines :
 
-	wget --no-check-certificate https://raw.github.com/liomedal/3proxy/master/3proxyuninst.sh
+	wget --no-check-certificate https://raw.github.com/lionelmedal/3proxy/master/3proxyuninst.sh
 	chmod +x 3proxyuninst.sh
 	./3proxyuninst.sh
 	
